@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Turing Yearbook
 
 This application was built with `create-react-app`.
@@ -49,3 +50,6 @@ Then create a controlled component that allows a user to add a new student.
 Add in the functionality so that a user can click and edit a student's information.  A user should be able to update the name, quote, and superlative.  
 
 Lastly, add a delete button on each card that allowers a user to remove students that are no longer attending.
+=======
+# turing-yearbook-time
+>>>>>>> 2928013dfa394fe0e1f09f2ed4cbf785f618193d
